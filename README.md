@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @terminalanimal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-terminalanimal/terminalanimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...learning about android linux and coding with github and termux
+- 🌱 I’m currently learning ...termux
+- 💞️ I’m looking to get any advice
+- 📫 How to reach me https://gitlab.com/terminal-learning1/terminal-animal
